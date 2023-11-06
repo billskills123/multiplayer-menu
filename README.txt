@@ -1,0 +1,3 @@
+Project Nature. (2019). temperate Vegetation: Spruce Forest. [Online]. Unreal Engine Marketplace. Last Updated: 29 April 2019. Available at: https://www.unrealengine.com/marketplace/en-US/product/interactive-spruce-forest [Accessed 10 October 2023].
+waveplaySFX. (2017). [Perc] Short Click/Snap Perc. [Online]. Freesound. Last Updated: 20 August 2017. Available at: https://freesound.org/people/waveplaySFX/sounds/399934/ [Accessed 10 October 2023].
+wobesound. (2019). UIHover1.wav. [Online]. Freesound. Last Updated: 14 October 2019. Available at: https://freesound.org/people/wobesound/sounds/488381/ [Accessed 10 October 2023].
